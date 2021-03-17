@@ -1,4 +1,3 @@
-<h2>Listedeki en küçük iki sayının toplamını veren program</h2>
 using System;
 public static class Kata
 {
